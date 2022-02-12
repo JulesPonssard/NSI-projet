@@ -1,0 +1,127 @@
+
+
+.Gen1
+{
+
+	background-image:url(CIel1.jpg) ;
+
+}
+
+a 
+{
+	text-align: center;
+	font-size: 25px ;
+	font-weight: bold;
+	color: white;
+}
+
+
+.title
+{
+	text-align: center;
+	color: white;
+	font-size: 45px;
+	text-decoration: underline;
+	font-weight: bold;
+}
+	
+P
+{
+	text-align:center;
+	font-size:25px;
+	color:white;
+	font-weight:bold;
+}
+
+
+.table1 
+{
+	margin: auto;
+	
+}
+
+td
+{
+	color:white;
+	font-size:20px;
+	text-align:center;
+	
+	
+}
+
+.td3
+{
+	color:white;
+	font-size:20px;
+
+}
+
+.p4
+{
+	font-weight:bold;
+	font-size:20px;
+	color:white;
+	text-align:center;
+}	
+
+
+.Gen2
+{
+	background-image:url(CIel2.jpg);
+}
+
+.table2
+{
+	border:5;
+	margin: auto;
+}
+
+.td1
+{
+	font-size:20px;
+	color:white;
+	text-align:center;
+	
+}
+
+div
+{
+	font-weight:bold;
+	font-size:40px;
+	color:white;
+	text-align:center;
+	text-decoration: underline;
+}
+
+.Gen3
+{
+	background-image:url(Fond.jpg);
+}
+
+
+.Egg
+{
+	font-size:25px;
+	color:cyan;
+	text-align:center;
+}
+
+.Easter
+{
+	font-weight:bold;
+	font-size:40px;
+	color:white;
+	text-align:center;
+	text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+
